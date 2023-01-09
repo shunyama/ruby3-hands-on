@@ -1,0 +1,11 @@
+# TypeProf 0.21.3
+
+# Classes
+class FizzBuzz
+  attr_reader limit: Integer
+  def initialize: (Integer limit) -> void
+  def exec: -> void
+
+  private
+  def calc: (Integer num) -> String
+end
