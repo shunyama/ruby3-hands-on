@@ -1,3 +1,6 @@
+[勉強会資料]
+https://docs.google.com/presentation/d/1JmzRlxIGVh-W-NyhO27aDsJIE8-ltm14auEA1ik7Xuk/edit?usp=sharing
+
 [メモ]
 
 ## typeprof
